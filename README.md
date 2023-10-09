@@ -1,9 +1,9 @@
 
 ## OpenAPI DB에 저장하기
 
-#### 공공데이터 포털의 [행정안전부_지진해일 긴급대피장소](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=3058512) API를 사용하여 진행하였습니다.
+<b> 공공데이터 포털의 [행정안전부_지진해일 긴급대피장소](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=3058512) API를 사용하여 진행하였습니다. </b>
 
-#### 🔨 Spring Boot, Gradle, JPA, MySQL
+<b> 🔨 Spring Boot, Gradle, JPA, MySQL </b>
 
 <hr/>
 
