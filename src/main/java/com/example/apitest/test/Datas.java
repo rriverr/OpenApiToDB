@@ -1,4 +1,4 @@
-package com.example.apitest.classes;
+package com.example.apitest.test;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

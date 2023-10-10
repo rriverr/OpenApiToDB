@@ -1,4 +1,4 @@
-package com.example.apitest.classes;
+package com.example.apitest.test;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
